@@ -75,7 +75,10 @@ where you put the Notifications component in your app.
 # Docs
 Full docs at [https://www.quarksjs.com/library/notification-quark](https://www.quarksjs.com/library/notification-quark)
 
-## 
+Source code at [https://github.com/SamuelSlavik/NotificationQuark](https://github.com/SamuelSlavik/NotificationQuark)
+
+# SUPPORT
+Please support us by starring the repository or donate at [https://www.quarksjs.com/donate](https://www.quarksjs.com/donate) to help us maintain the project and cover hosting expenses.
 
 
 
