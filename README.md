@@ -4,11 +4,15 @@ This quark is a simple vue plugin with notification component and added sparkles
 that handles the behaviour. <br/> It is a simple notification system that can be used
 to display messages to the user on plethora events happening in your app.
 
+<br/>
+
 ## Installation
 
 ```sh
 npm install notification-quark --save
 ```
+
+<br/>
 
 ## Setup
 main.js
@@ -44,6 +48,8 @@ App.vue
 Next step is to place the component whereever you want to display the
 notifications in your app, for example in the top most container, in your App.vue
 
+<br/>
+
 ## Basic Usage
 
 Component.vue
@@ -72,12 +78,14 @@ Component.vue
 This will display success(greenish) notification with the message "Component mounted successfully" 
 where you put the Notifications component in your app.
 
-# Docs
+<br/>
+
+## Docs
 Full docs at [https://www.quarksjs.com/library/notification-quark](https://www.quarksjs.com/library/notification-quark)
 
 Source code at [https://github.com/SamuelSlavik/NotificationQuark](https://github.com/SamuelSlavik/NotificationQuark)
 
-# SUPPORT
+## SUPPORT
 Please support us by starring the repository or donate at [https://www.quarksjs.com/donate](https://www.quarksjs.com/donate) to help us maintain the project and cover hosting expenses.
 
 
